@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    text-align: justify;
+    font-size: 1.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    font-size: 1.25rem;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 2.25rem;
+    padding: 0.5rem 1rem;
+    background-color:lightslategrey;
+    border-radius: 0.75rem;
+}
